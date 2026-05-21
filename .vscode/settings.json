@@ -1,0 +1,4 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\psu-4kw-48v\\default",
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc-dsc\\v3.31\\bin\\xc-dsc-clangd.exe"
+}

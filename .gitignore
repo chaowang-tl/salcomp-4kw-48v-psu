@@ -1,0 +1,16 @@
+.generated_files/
+build/
+dist/
+nbproject/
+Makefile*
+Package-*
+private/
+_build/
+!cmake/**/user.cmake
+cmake/**/.generated/*
+cmake/**/CMake*
+out/
+
+# MCC backups & generated metadata
+*.mc3.bak*
+mcc-manifest-generated-success.yml
